@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Container>
+  <SuppressInitMessages>false</SuppressInitMessages>
+  <Loggers>
+    <!-- First specified logger is considered the default logger for the application. -->
+    <Logger Assembly="Supernova.Poc" Type="Supernova.Poc.TestImpl.TextFileLogger" />
+    
+    <!-- 
+      Ideas:
+        SqlLogger
+        WindowsEventLogger
+    -->
+  </Loggers>
+</Container>

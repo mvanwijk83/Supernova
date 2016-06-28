@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Modules>
+  <Module>
+    <Name>Web Pages</Name>
+    <Description>This module enables the creation, editing, publication and display of web pages on a Supernova site.</Description>
+    <UID>FF9F1B03-55E9-4597-9314-76F3C06E8169</UID>
+    <Assembly>Supernova</Assembly>
+    <Type>Supernova.Modules.Page</Type>
+    <RepositoryType>Supernova.Modules.Repositories.PageRepository</RepositoryType>
+    <Version>1.0</Version>
+    <MinAppVersion></MinAppVersion>
+    <Author>Marcel van Wijk</Author>
+    <Website></Website>
+    <UpdateUrl></UpdateUrl>
+  </Module>
+</Modules>

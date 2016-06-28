@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Pages>
+  <Page>
+    <ID>1</ID>
+    <Title>Home</Title>
+    <Url>~/</Url>
+    <Content></Content>
+  </Page>
+  <Page>
+    <ID>1</ID>
+    <Title>Home</Title>
+    <Url>~/Default.aspx</Url>
+    <Content></Content>
+  </Page>
+  <Page>
+    <ID>2</ID>
+    <Title>About</Title>
+    <Url>~/about</Url>
+    <Content></Content>
+  </Page>
+</Pages>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supernova.Utils", "Supernova.Utils\Supernova.Utils.csproj", "{6A99BCD8-DBD4-47D4-9161-192ED52D76EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Supernova", "Supernova\Supernova.csproj", "{224D89E6-7CCF-4AED-BF17-F4BC8962E9EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWebsite", "MyWebsite\MyWebsite.csproj", "{63850E48-5EA5-46BE-A18F-7C83287D5215}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A99BCD8-DBD4-47D4-9161-192ED52D76EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A99BCD8-DBD4-47D4-9161-192ED52D76EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A99BCD8-DBD4-47D4-9161-192ED52D76EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A99BCD8-DBD4-47D4-9161-192ED52D76EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{224D89E6-7CCF-4AED-BF17-F4BC8962E9EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{224D89E6-7CCF-4AED-BF17-F4BC8962E9EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{224D89E6-7CCF-4AED-BF17-F4BC8962E9EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{224D89E6-7CCF-4AED-BF17-F4BC8962E9EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63850E48-5EA5-46BE-A18F-7C83287D5215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63850E48-5EA5-46BE-A18F-7C83287D5215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63850E48-5EA5-46BE-A18F-7C83287D5215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63850E48-5EA5-46BE-A18F-7C83287D5215}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
